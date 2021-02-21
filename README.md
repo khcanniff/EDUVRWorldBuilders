@@ -1,5 +1,5 @@
 # Welcome to EDUVRWorldBuilders 
-Testing out the world builder setup
+Testing out the world builder setup. Not sure if we want people to branch off of the main repo so they can commit their unity file to it. This will make it easier for us to upkeep a level (we just have to pull their branch), but not sure about the learning curve of GitHub for people and the size limit of Unity projects on git.
 ## Getting Started
 1) Read this document on world building standards (need link)
 2) Create an entry on this spreadsheet (need link)
